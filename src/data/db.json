@@ -53,5 +53,26 @@
         "tareaName": "Realizar vista responsive",
         "descriptionTarea": "Realizar el diseño responsive de todas las vistas al igual que la vista dekstop"
       }
+    ],
+    "users":[
+        {
+            "id":1,
+            "name": "Anna Bondarets",
+            "email": "anna@gmail.com",
+            "password": "anna123"
+        },
+        {
+            "id":2,
+            "name": "Snaidy Guzman",
+            "email": "snaidy@gmail.com",
+            "password": "snaidy123"
+        },
+        {
+            "id":3,
+            "name": "Stefannya Onofre",
+            "email": "stefannya@gmail.com",
+            "password": "stefannya123"
+        }
+
     ]
   }
