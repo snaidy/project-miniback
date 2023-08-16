@@ -1,0 +1,57 @@
+{
+    "projects": [
+      {
+        "id": 1,
+        "name": "Sprint 4",
+        "description": "Realizar una aplicación de delivery food"
+      },
+      {
+        "id": 2,
+        "name": "Workshop 5",
+        "description": "Realizar una aplicación tipo red social basandose en Instagram"
+      },
+      {
+        "id": 3,
+        "name": "Proyecto Demo Day",
+        "description": "Realizar un proyecto usando todos los conocimientos técnicos adquiridos"
+      }
+    ],
+    "tarea": [
+      {
+        "id": 1,
+        "projectId": 1,
+        "tareaName": "Realizar filtrado",
+        "descriptionTarea": "El filtrado se debe realizar en la sección de comidas"
+      },
+      {
+        "id": 2,
+        "projectId": 1,
+        "tareaName": "Diseño responsive",
+        "descriptionTarea": "Realizar el diseño responsive de todas las vistas al igual que la vista dekstop"
+      },
+      {
+        "id": 3,
+        "projectId": 2,
+        "tareaName": "Realizar vista home",
+        "descriptionTarea": "En la vista home se debe ver las publicaciones realizadas por los usuarios"
+      },
+      {
+        "id": 4,
+        "projectId": 2,
+        "tareaName": "Componente perfil",
+        "descriptionTarea": "Realizar el perfil del usuario, donde se vea toda su información personal del usuario logueado"
+      },
+      {
+        "id": 5,
+        "projectId": 3,
+        "tareaName": "Design thinking",
+        "descriptionTarea": "Realizar un estudio de mercado del proyecto que se va a realizar"
+      },
+      {
+        "id": 6,
+        "projectId": 3,
+        "tareaName": "Realizar vista responsive",
+        "descriptionTarea": "Realizar el diseño responsive de todas las vistas al igual que la vista dekstop"
+      }
+    ]
+  }
