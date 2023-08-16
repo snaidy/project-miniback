@@ -59,19 +59,22 @@
             "id":1,
             "name": "Anna Bondarets",
             "email": "anna@gmail.com",
-            "password": "anna123"
+            "password": "anna123",
+            "image": "https://www.dzoom.org.es/wp-content/uploads/2020/02/portada-foto-perfil-redes-sociales-consejos.jpg"
         },
         {
             "id":2,
             "name": "Snaidy Guzman",
             "email": "snaidy@gmail.com",
-            "password": "snaidy123"
+            "password": "snaidy123",
+            "image": "https://images.unsplash.com/photo-1616002411355-49593fd89721?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGNhcmElMjBkZSUyMG11amVyfGVufDB8fDB8fHww&w=1000&q=80"
         },
         {
             "id":3,
             "name": "Stefannya Onofre",
             "email": "stefannya@gmail.com",
-            "password": "stefannya123"
+            "password": "stefannya123",
+            "image": "https://images.unsplash.com/photo-1587382981310-506e3e278950?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Zm90byUyMGRlJTIwY2hpY2FzfGVufDB8fDB8fHww&w=1000&q=80"
         }
 
     ]
